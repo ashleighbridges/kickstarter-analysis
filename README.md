@@ -7,7 +7,7 @@ This analysis was completed to provide a recommendation to Louise for what she s
     
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100883212/159398605-c05022a4-1a29-4dc7-8157-e10839af16af.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100883212/159586001-d80a11a4-e4dd-4bf3-b4b7-59b59fb76264.png)
   
 In this chart, we filtered the data to only show the number of outcomes of successful, failed, and canceled theater campaigns by month. Our first observation is a large spike in the total number of successful theater campaigns started in May. This trend of a higher-than-average number of successful campaigns continues through June and July before returning to a number closer to the average in August. We also observed a steep drop-off the number of successful outcomes in November and December, likely due to the approaching holiday season where those who would normally contribute to campaigns are prioritizing their budgets for holiday festivities. We would recommend for Louise to launch her campaign in May, however launching in June or July could statistically still yield a higher chance of a having a successful campaign. We would recommend against starting a campaign in November or December.
     
