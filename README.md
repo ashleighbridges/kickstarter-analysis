@@ -32,3 +32,7 @@ The biggest diffuculty I encountered with the analysis was ensuring the COUNTIFS
 
 - What are some other possible tables and/or graphs that we could create?
   - A helpful chart to create for this study would be a line chart showing the outcome based on average donation to see if projects with larger average donations from fewer patrons had a better chance of being fully funded over those with lesser average donations from more patrons. 
+
+[Kickstarter_Challenge.zip](https://github.com/ashleighbridges/kickstarter-analysis/files/8328927/Kickstarter_Challenge.zip)
+
+[Resources.zip](https://github.com/ashleighbridges/kickstarter-analysis/files/8328932/Resources.zip)
